@@ -14,7 +14,7 @@ Your users should be able to:
 
 ## Desktop Design
 
-![Desktop Design](./design/desktop-preview.jpg)
+![Desktop Design](./design/desktop-design.jpg)
 How the website should look like
 
 Links
