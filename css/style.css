@@ -15,7 +15,7 @@ body{
         color: hsl(228, 45%, 44%);
 }
 .container{
-    margin: 250px auto;
+    margin: 200px auto;
     display: grid;
     grid-template-columns: 33.3% auto 33.3%;
     grid-template-rows: 140px auto 25%;
@@ -110,7 +110,7 @@ body{
     right:-70px;
     z-index: -10;
 }
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1000px) {
     .circle-1{
         display: none;
     }
